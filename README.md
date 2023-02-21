@@ -1,4 +1,4 @@
-# TWITCH.
+# TWITCH
 ***
 ![image](https://user-images.githubusercontent.com/98593365/220455298-adfae104-86ae-4b18-9fc3-4d3ab54598f4.png)
 # ОПИСАНИЕ ПРОЕКТА
