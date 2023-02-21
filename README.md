@@ -1,1 +1,5 @@
-# IvanovChecmarev![image](https://user-images.githubusercontent.com/98593365/220454938-6e393d3f-9ed4-422f-a33f-1510f34654ed.png)
+TWITCH
+![image](https://user-images.githubusercontent.com/98593365/220455298-adfae104-86ae-4b18-9fc3-4d3ab54598f4.png)
+ОПИСАНИЕ ПРОЕКТА 
+Twitch — видеостриминговый сервис, специализирующийся на тематике компьютерных игр, в том числе трансляциях геймплея и киберспортивных турниров. Видео на платформе Twitch можно просматривать как в реальном времени, так и по запросу. Twitch принадлежит Twitch Interactive — дочерней компании Amazon
+8
